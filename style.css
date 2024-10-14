@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-bg {
+    background-color: #191a1d;
+    height: 100vh;
+    background-size: cover;
+}
+
+.nav-design {
+    color: white;
+    padding: 20px;
+    border-style: solid;
+    border-color: #4b6cc1;
+}
+
+.g {
+    color: white !important;
+}
+
+.iii {
+    width: 75%;
+    border-radius: 180px;
+}
+
+.s {
+    color: #4b6cc1;
+}
+
+.head {
+    color: white;
+}
+
+.para {
+    color: #9aa5b1;
+}
+
+.but {
+    color: white;
+    background-color: #4b6cc1;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.main-aboutme {
+    background-color: #323f4b;
+    padding: 40px;
+}
+
+.head4 {
+    color: #cced00;
+}
+
+.aboutme-head1 {
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.aboutme-iii {
+    width: 90%;
+    border-radius: 20px;
+}
+
+.aboutme-para {
+    color: #9aa5b1;
+    font-family: "Roboto";
+}
+
+.main-skills {
+    background-color: #1f2933;
+    padding: 30px;
+}
+
+.htmlone {
+    background-color: #323f4b;
+    height: 160px;
+    border-radius: 20px;
+}
+
+.headhtml {
+    color: white;
+    font-size: 30px;
+}
+
+.htmliii {
+    height: 80px;
+    width: 80px;
+    margin-top: 10px;
+}
+
+.resumeiii {
+    height: 100vh;
+}
+
+.main-bgg {
+    background-color: #3e4c59;
+    padding: 20px;
+}
+
+.head4 {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.projects-head {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.projectone {
+    width: 100%;
+    height: 50%;
+    border-radius: 10px;
+}
+
+.projectonebg {
+    background-color: #323f4b;
+    border-radius: 10px;
+}
+
+.head3 {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.card1 {
+    padding: 20px;
+}
+
+.ttt {
+    padding: 20px;
+}
+
+
+
+.main-bggg {
+    background-color: #52606d;
+    padding: 20px;
+}
+
+.service {
+    color: #cced00;
+}
+
+.headone {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.Servicecard {
+    background-color: #323f4b;
+    border-radius: 20px;
+    padding: 40px;
+}
+
+.Servicehead {
+    color: #cced00;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.Servicepara {
+    color: #9aa5b1;
+    font-size: 30px;
+}
+
+.iiiservice {
+    height: 80px;
+    width: 80px;
+}
+
+.workdone {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    padding: 20px;
+    background-size: cover;
+}
+
+
+.footermain {
+    background-color: #001c32;
+    padding: 30px;
+}
+
+.footiii {
+    border-radius: 50px;
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+}
+
+.foothead {
+    color: #cced00;
+    font-weight: bold;
+}
+
+
+.footpara {
+    color: #9aa5b1;
+}
+
+.foot {
+    background-color: #0d2436;
+}
+
+.fooot {
+    background-color: #0d2436;
+}
+
+.parafoot {
+    color: #5a7184;
+}
